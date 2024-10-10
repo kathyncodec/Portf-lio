@@ -1,6 +1,12 @@
 body {
     
 }
+
+.banner{
+    background-color : lightskyblue;
+    
+
+}
 nav ul {
     list-style: none;
     margin: 0;
